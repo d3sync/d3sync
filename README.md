@@ -12,7 +12,7 @@
 
 #### 🛠️ Tech Stack
 - **Languages**: C#, SQL, TypeScript
-- **Frameworks**: .NET Core (6-9), ASP.NET MVC, Blazor, Entity Framework Core
+- **Frameworks**: .NET Core (6-10), ASP.NET MVC, Blazor, Entity Framework Core
 - **Frontend**: Angular, MudBlazor, Bootstrap
 - **Protocols**: TCP/IP, HL7, MQTT, REST, SOAP
 - **DevOps**: Linux, Nginx, systemd, Aspire.NET, WireGuard VPN
